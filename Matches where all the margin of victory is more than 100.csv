@@ -1,0 +1,10 @@
+id,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,eliminator,method,umpire1,umpire2
+335982,Bangalore,18-04-2008,"BB McCullum","M Chinnaswamy Stadium",0,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",field,"Kolkata Knight Riders",runs,140,N,NA,"Asad Rauf","RE Koertzen"
+336038,Mumbai,30-05-2008,"SR Watson","Wankhede Stadium",0,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",field,"Rajasthan Royals",runs,105,N,NA,"BF Bowden","RE Koertzen"
+501260,Dharamsala,17-05-2011,"AC Gilchrist","Himachal Pradesh Cricket Association Stadium",0,"Kings XI Punjab","Royal Challengers Bangalore","Kings XI Punjab",bat,"Kings XI Punjab",runs,111,N,NA,"Asad Rauf","AM Saheba"
+598027,Bangalore,23-04-2013,"CH Gayle","M Chinnaswamy Stadium",0,"Royal Challengers Bangalore","Pune Warriors","Pune Warriors",field,"Royal Challengers Bangalore",runs,130,N,NA,"Aleem Dar","C Shamshuddin"
+829785,Bangalore,06-05-2015,"CH Gayle","M Chinnaswamy Stadium",0,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",field,"Royal Challengers Bangalore",runs,138,N,NA,"RK Illingworth","VA Kulkarni"
+980987,Bangalore,14-05-2016,"AB de Villiers","M Chinnaswamy Stadium",0,"Royal Challengers Bangalore","Gujarat Lions","Gujarat Lions",field,"Royal Challengers Bangalore",runs,144,N,NA,"AY Dandekar","VK Sharma"
+1082635,Delhi,06-05-2017,"LMP Simmons","Feroz Shah Kotla",0,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",field,"Mumbai Indians",runs,146,N,NA,"Nitin Menon","CK Nandan"
+1136601,Kolkata,09-05-2018,"Ishan Kishan","Eden Gardens",0,"Kolkata Knight Riders","Mumbai Indians","Kolkata Knight Riders",field,"Mumbai Indians",runs,102,N,NA,"KN Ananthapadmanabhan","AK Chaudhary"
+1175366,Hyderabad,31-03-2019,"JM Bairstow","Rajiv Gandhi International Stadium, Uppal",0,"Sunrisers Hyderabad","Royal Challengers Bangalore","Royal Challengers Bangalore",field,"Sunrisers Hyderabad",runs,118,N,NA,"KN Ananthapadmanabhan","S Ravi"
